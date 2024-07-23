@@ -1,0 +1,20 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+.index-logo{
+    width: 200px;
+    height: 100px;
+}
+
+.index-container{
+    background-color: rgb(45, 165, 173);
+    width: 50%;
+    border-radius: 10px;
+    color: white;
+}

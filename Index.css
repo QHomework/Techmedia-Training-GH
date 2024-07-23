@@ -1,0 +1,139 @@
+*{
+    
+    padding: 0px;
+    margin: 0px;
+}
+p{
+    margin: 5%;
+}
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(48, 180, 152);
+
+}
+.index-logo{
+    width: 200Px;
+    height: 90px;
+}
+.link a{
+    margin-left: 35px;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 18px;
+}
+.links{
+    display: flex;
+    list-style: none;
+    gap: 35px;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    margin: 0 auto;
+    justify-content: space-between;
+    background-color: white;
+    color: rgb(45, 165, 173);
+}
+a:hover{
+    color: rgb(45, 165, 173);
+}
+.logo{
+    display: flex;
+    gap: 10px;
+}
+.container{
+    margin: 15%;
+}
+.p1{
+    margin: 5%;
+}
+.search1{
+    height: 35px;
+    width: 50%;
+    background-color: white;
+}
+.index-enroll{
+    margin: 20px;
+    border-radius: 5px;
+   height: 40px;
+   width: 80%;
+    border-color: rgb(15, 170, 157);
+    color:  rgb(15, 170, 157);
+    background-color: white;
+    border: solid;
+    transition: all 0.3s;
+}
+.index-enroll:hover{
+    cursor: pointer;
+}
+.index-enroll:active{
+    background-color: rgba(0, 255, 255, 0.5);
+}
+.card-container{
+    display: flex  ;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    width: 100%;
+}
+.card{
+    width: 550px;
+    border-radius: none;
+    overflow: hidden;
+    margin: 20px;
+}
+.card img{
+    width: 1200px;
+    height: 300px;
+}
+.card-content{
+    text-align: left;
+}
+.card-content .title{
+    text-align: center;
+    margin: 10px; 
+}
+img{
+    width: 660px;
+    height: 309.88px;    
+}
+.date{
+    display: inline-block;
+    color:  rgb(15, 170, 157);
+    margin: 10px;
+    margin-right: 25%;
+}
+.money{
+    margin-left: 25%;
+    display: inline-block;
+   justify-content: center;
+   color:  rgb(15, 170, 157); 
+   
+}
+
+footer{
+    width: 100%;
+    height: 350px;
+    border: 2px;
+    background-color:  rgb(15, 170, 157);
+    margin: 0px;
+    padding-left: 10px;
+}
+.topic{
+    display: inline-block;
+    color: aliceblue;
+    padding-top: 20px;
+    margin-right: 20%;
+
+}
+.topic2{
+    display: inline-block;
+}

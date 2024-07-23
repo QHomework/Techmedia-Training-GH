@@ -1,0 +1,17 @@
+.main{
+    margin-top: 150px;
+}
+.index-container{
+    margin-top: 50px;
+}
+.topic{
+    display: flex;
+    justify-content: center;
+}
+.topic2{
+    display: flex;
+    justify-content: center;
+}
+.text{
+    text-align: center;
+}

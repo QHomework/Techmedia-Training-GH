@@ -1,0 +1,15 @@
+.index-logo{
+    width: 200px;
+    height: 100px;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+}
+.index-text{
+    display: flex;
+    justify-content: center;
+    text-align: center; 
+}
